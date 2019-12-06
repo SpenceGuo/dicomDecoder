@@ -1,0 +1,10 @@
+C:\Users\果\source\repos\dicom_exec4\dicom_exec4\bin\Debug\dicom_exec4.exe.config
+C:\Users\果\source\repos\dicom_exec4\dicom_exec4\bin\Debug\dicom_exec4.exe
+C:\Users\果\source\repos\dicom_exec4\dicom_exec4\bin\Debug\dicom_exec4.pdb
+C:\Users\果\source\repos\dicom_exec4\dicom_exec4\obj\Debug\dicom_exec4.csprojResolveAssemblyReference.cache
+C:\Users\果\source\repos\dicom_exec4\dicom_exec4\obj\Debug\dicom_exec4.DicomParser.resources
+C:\Users\果\source\repos\dicom_exec4\dicom_exec4\obj\Debug\dicom_exec4.Properties.Resources.resources
+C:\Users\果\source\repos\dicom_exec4\dicom_exec4\obj\Debug\dicom_exec4.csproj.GenerateResource.Cache
+C:\Users\果\source\repos\dicom_exec4\dicom_exec4\obj\Debug\dicom_exec4.csproj.CoreCompileInputs.cache
+C:\Users\果\source\repos\dicom_exec4\dicom_exec4\obj\Debug\dicom_exec4.exe
+C:\Users\果\source\repos\dicom_exec4\dicom_exec4\obj\Debug\dicom_exec4.pdb
